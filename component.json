@@ -1,0 +1,13 @@
+{
+  "name": "ImageGallery",
+  "version": "0.1.0",
+  "dependencies": {
+  	"modernizr": null,
+  	"requirejs": null,
+    "backbone-amd": null,
+    "underscore-amd": null,
+    "jquery": null,
+    "spin.js": null,
+    "bootstrap.css": null
+  }
+}

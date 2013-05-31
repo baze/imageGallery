@@ -1,0 +1,9 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+/public/css/vendor
+/public/scripts/vendor
+*.sublime-*
+sftp-config.json
